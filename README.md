@@ -1,1 +1,0 @@
-# Git_Practical_1
